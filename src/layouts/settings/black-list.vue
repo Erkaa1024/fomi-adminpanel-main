@@ -1,0 +1,3 @@
+<template>
+    Black list
+</template>
